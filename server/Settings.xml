@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ServerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>OJC L.W.S.I.N API</Name>
+  <MaxPlayers>69</MaxPlayers>
+  <Port>6969</Port>
+  <PasswordProtected>false</PasswordProtected>
+  <Password>changeme</Password>
+  <Announce>true</Announce>
+  <MasterServer>http://120.0.0.1</MasterServer>
+  <AllowDisplayNames>true</AllowDisplayNames>
+  <Gamemode>freeroam</Gamemode>
+  <Filterscripts>
+    <string>AdminTools</string>
+  </Filterscripts>
+</ServerSettings>
